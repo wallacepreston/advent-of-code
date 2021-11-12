@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "advent-of-code",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +13,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "2.0.15"
+  }
 }
